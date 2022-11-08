@@ -13,6 +13,10 @@ Commodore Plus4
 
 See https://cbm-pi1541.firebaseapp.com/ for SD card and hardware configurations.
 
+Bekker's additions:
+
+I've enabled video output (composite & HDMI) to show the Pi1541 project on a small monitor instead of an LCD
+
 Toolchain Installation
 ----------------------
 
